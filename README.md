@@ -1,6 +1,6 @@
 # MarketSight Server
 
-This project can be found at [cfoucht.com/mketsight](http://cfoucht.com/mketsight).
+This project can be found at [cfoucht.com/marketsight](http://cfoucht.com/marketsight).
 
 ## Description
 
