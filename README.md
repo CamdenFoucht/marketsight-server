@@ -4,11 +4,7 @@ This project can be found at [cfoucht.com/marketsight](http://cfoucht.com/market
 
 ## Description
 
-Create market watchlists with your favorite stocks. Have quotes update every 5 minutes, and learn more about companies you're interested in by viewing their historical prices, earnings, analyst ratings, and recent news.
-
-<br/>
-
-This repository hosts the node server for the project. The server is built with express, mongoose and hosted with heroku.
+Create market watchlists with your favorite stocks. Have quotes update every 5 minutes, and learn more about companies you're interested in by viewing their historical prices, earnings, analyst ratings, and recent news. This repository hosts the node server for the project. The server is built with express, mongoose and hosted with heroku.
 
 ## Technolgies
 
